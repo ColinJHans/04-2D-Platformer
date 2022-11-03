@@ -1,31 +1,20 @@
-```
-# Exercise-04b-Levels
+# 04-2D-Platformer
+Project for MSCH-C 220 11/2/22
 
-Exercise for MSCH-C220
-
-The third exercise for the 2D Platformer project, exploring the TileMap node.
-
+Description
+Rudimentary Platformer
 
 ## Implementation
-
-Built using Godot 3.5
-
-The player sprite adapted from [MV Platformer Male](https://opengameart.org/content/mv-platformer-male-32x64) by MoikMellah. CC0 Licensed.
-
-The terrain spritemap is from the [Abstract Platformer package](https://kenney.nl/assets/abstract-platformer) available at Kenney.nl.
-
+Mutiple levels, with varying levels of difficulty
+Originally Composed Music
+Orignal Player Sprite
 
 ## References
 
-None
-
-
 ## Future Development
+Adding a Score feature
+More levels
+More music
 
-None
-
-
-## Created by 
-
+## Created by
 Colin Hans
-```
